@@ -1,0 +1,32 @@
+{
+ "art": "skill",
+ "typ": "spickzettel",
+ "id": "forschungsmethoden-grundbegriffe",
+ "version": "1.0",
+ "name": "Forschungsmethoden: Grundbegriffe",
+ "begriffe": {
+  "Reliabilität": "Die Zuverlässigkeit einer Messung: Ein reliabler Test liefert bei wiederholter Messung unter gleichen Bedingungen gleiche oder sehr ähnliche Ergebnisse.",
+  "Validität": "Die Gültigkeit einer Messung: Ein valider Test misst tatsächlich das, was er messen soll.",
+  "Objektivität": "Die Unabhängigkeit der Ergebnisse von der Person, die den Test durchführt, auswertet und interpretiert.",
+  "Operationalisierung": "Die Festlegung, wie ein theoretischer Begriff (z. B. Angst) konkret messbar gemacht wird, etwa durch einen Fragebogen oder die Herzfrequenz.",
+  "Hypothese": "Eine prüfbare Annahme über einen Zusammenhang oder Unterschied, die aus einer Theorie abgeleitet wird.",
+  "Nullhypothese": "Die Annahme, dass es keinen Effekt, keinen Unterschied oder keinen Zusammenhang gibt (H0). Ein Signifikanztest prüft, ob die Daten gegen sie sprechen.",
+  "Alternativhypothese": "Die Annahme, dass es einen Effekt, Unterschied oder Zusammenhang gibt (H1). Sie ist das Gegenstück zur Nullhypothese.",
+  "Unabhängige Variable": "Die Variable, die in einem Experiment gezielt verändert wird, um ihre Wirkung zu untersuchen (UV).",
+  "Abhängige Variable": "Die Variable, die gemessen wird, um die Wirkung der unabhängigen Variable festzustellen (AV).",
+  "Störvariable": "Eine Variable, die neben der unabhängigen Variable ebenfalls auf die abhängige Variable wirkt und das Ergebnis verfälschen kann, wenn sie nicht kontrolliert wird.",
+  "Experiment": "Eine Untersuchung, bei der die unabhängige Variable gezielt verändert und Störvariablen kontrolliert werden, idealerweise mit zufälliger Zuteilung der Versuchspersonen zu den Bedingungen.",
+  "Randomisierung": "Die zufällige Zuteilung von Versuchspersonen zu den Versuchsbedingungen, damit sich Störvariablen gleichmäßig auf die Gruppen verteilen.",
+  "Quasi-Experiment": "Eine Untersuchung wie ein Experiment, aber ohne zufällige Zuteilung, z. B. weil die Gruppen schon vorher feststehen (etwa Raucher und Nichtraucher).",
+  "Kohorte": "Eine Gruppe von Personen, die im selben Zeitraum geboren wurden oder ein bestimmtes Ereignis gemeinsam erlebt haben.",
+  "Querschnittstudie": "Eine Untersuchung, bei der verschiedene Personen (z. B. unterschiedlichen Alters) zu einem einzigen Zeitpunkt untersucht werden.",
+  "Längsschnittstudie": "Eine Untersuchung, bei der dieselben Personen über einen längeren Zeitraum mehrfach untersucht werden.",
+  "Stichprobe": "Die Auswahl von Personen oder Fällen, die tatsächlich untersucht wird, um Aussagen über die Population zu machen.",
+  "Population": "Die Gesamtheit aller Personen oder Fälle, über die eine Aussage gemacht werden soll (auch Grundgesamtheit).",
+  "Repräsentativität": "Eine Stichprobe ist repräsentativ, wenn sie in den wichtigen Merkmalen der Population entspricht, sodass man von ihr auf die Population schließen kann.",
+  "Interne Validität": "Das Ausmaß, in dem ein gefundener Effekt eindeutig auf die unabhängige Variable zurückgeführt werden kann und nicht auf Störvariablen.",
+  "Externe Validität": "Das Ausmaß, in dem sich die Ergebnisse einer Untersuchung auf andere Personen, Situationen und Zeitpunkte verallgemeinern lassen.",
+  "Placebo": "Ein Scheinmittel ohne Wirkstoff. In Studien dient eine Placebogruppe dazu, die echte Wirkung einer Behandlung von Erwartungseffekten zu unterscheiden.",
+  "Doppelblindstudie": "Eine Studie, bei der weder die Versuchspersonen noch die Versuchsleitung wissen, wer welche Bedingung erhält, damit Erwartungen das Ergebnis nicht beeinflussen."
+ }
+}

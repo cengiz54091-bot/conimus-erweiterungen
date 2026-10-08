@@ -1,0 +1,29 @@
+{
+ "name": "Conimus-Erweiterungen von Cengiz",
+ "erweiterungen": [
+  {
+   "id": "forschungsmethoden-grundbegriffe",
+   "art": "skill",
+   "version": "1.0",
+   "name": "Forschungsmethoden: Grundbegriffe",
+   "datei": "skills/forschungsmethoden-grundbegriffe.json",
+   "beschreibung": "23 Grundbegriffe aus Forschungsmethoden: Gütekriterien, Variablen, Versuchspläne, Stichproben."
+  },
+  {
+   "id": "wetter-dwd",
+   "art": "konnektor",
+   "version": "1.0",
+   "name": "Wetter (Deutscher Wetterdienst)",
+   "datei": "konnektoren/wetter-dwd.json",
+   "beschreibung": "Aktuelles Wetter vom DWD. Ort über Breiten- und Längengrad einstellbar (vorgegeben: Soest)."
+  },
+  {
+   "id": "nachrichten-tagesschau",
+   "art": "konnektor",
+   "version": "1.0",
+   "name": "Nachrichten (Tagesschau)",
+   "datei": "konnektoren/nachrichten-tagesschau.json",
+   "beschreibung": "Die aktuellen Schlagzeilen der Tagesschau."
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "art": "konnektor",
+ "id": "nachrichten-tagesschau",
+ "version": "1.0",
+ "name": "Nachrichten (Tagesschau)",
+ "host": "www.tagesschau.de",
+ "adresse": "https://www.tagesschau.de/api2u/homepage/",
+ "stichwoerter": [
+  "nachrichten",
+  "schlagzeilen",
+  "tagesschau",
+  "was gibt es neues"
+ ],
+ "kopf": "📰 **Aktuelle Schlagzeilen**",
+ "liste": "news",
+ "eintrag": "• **{title}** — {shareURL}",
+ "anzahl": 6,
+ "quelle": "tagesschau.de"
+}

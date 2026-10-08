@@ -1,0 +1,33 @@
+{
+ "art": "konnektor",
+ "id": "wetter-dwd",
+ "version": "1.0",
+ "name": "Wetter (Deutscher Wetterdienst)",
+ "host": "api.brightsky.dev",
+ "adresse": "https://api.brightsky.dev/current_weather?lat={lat}&lon={lon}",
+ "parameter": {
+  "lat": "51.57",
+  "lon": "8.11"
+ },
+ "stichwoerter": [
+  "wetter",
+  "regnet es",
+  "wie warm",
+  "wie kalt",
+  "temperatur draußen"
+ ],
+ "kopf": "🌦️ **Wetter jetzt** (Wetterstation {sources.0.station_name})",
+ "vorlage": "{weather.temperature} °C, {weather.condition}, Bewölkung {weather.cloud_cover} %, Luftfeuchte {weather.relative_humidity} %, Wind {weather.wind_speed_10} km/h, Böen bis {weather.wind_gust_speed_10} km/h",
+ "uebersetzen": {
+  "weather.condition": {
+   "dry": "trocken",
+   "fog": "Nebel",
+   "rain": "Regen",
+   "sleet": "Schneeregen",
+   "snow": "Schnee",
+   "hail": "Hagel",
+   "thunderstorm": "Gewitter"
+  }
+ },
+ "quelle": "Deutscher Wetterdienst über Bright Sky (brightsky.dev)"
+}
